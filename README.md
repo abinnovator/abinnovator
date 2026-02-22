@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ScoutHub
+I'm a 13 year old footballer and coder. I love making that actually help others not just show off on a portfolio. My main in tech is to make a product that helps students and students atheletes excel in their hobbies, studies and intrests. I am also a part of hack club.
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abinnovator&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abinnovator&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinnovator&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# Hack club Stats
 ---
 [![](https://visitcount.itsvg.in/api?id=abinnovator&icon=0&color=0)](https://visitcount.itsvg.in)
 
