@@ -13,8 +13,7 @@ I'm a 13 year old footballer and coder. I love making that actually help others 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinnovator&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # Hack club Stats
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=25352&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-![]({{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
-)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=abinnovator&icon=0&color=0)](https://visitcount.itsvg.in)
 
