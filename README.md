@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 13 year old footballer and coder. I love making that actually help others not just show off on a portfolio. My main in tech is to make a product that helps students and students atheletes excel in their hobbies, studies and intrests. I am also a part of hack club.
+I'm a 13 year old footballer and coder. I love making that actually help others not just show off on a portfolio. My main field in tech is making products that help students and student atheletes excel in their hobbies, studies and intrests. Also a part of hack club!
 
 
 ## 🌐 Socials:
